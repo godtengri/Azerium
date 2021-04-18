@@ -23,3 +23,10 @@ Bu məlumatlar 3. tərəf insanlar ilə paylaşılmır.
 
 # Azerium Bot - Uptime
 - 98.2% uptime
+
+# Azerium Bot - Güncəlləmələr
+- Azerium v1.7.0
+- az!kommandlar, kommandı yeniləndi!
+- az!statistika, dəyişdi
+- az!shard, botun shardlarını göstərir
+- Bota shard sistemi əlav  edildi! (keçici olaraq dayandırıldı)
